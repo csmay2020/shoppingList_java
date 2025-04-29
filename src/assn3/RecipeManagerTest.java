@@ -2,18 +2,6 @@ package assn3;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
-
-/*
- * File name:RecipeManagerTest.java
- * Author: Shan Cai 
- * ID:040469755 
- * Course: CST8284-OOP
- * Assignment: Assignment 03 
- * Due Date: April 6 ,2025 
- * Professor: Reg Dyer 1
- * 
- */
-
 /**
  * This class is to create menu and prompt users input their options
  * 
