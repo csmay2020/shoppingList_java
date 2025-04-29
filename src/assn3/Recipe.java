@@ -3,15 +3,6 @@ package assn3;
 import java.util.HashMap;
 import java.util.Map;
 
-/*
- * File name:Recipe.java
- * Author: Shan Cai 
- * ID:040469755 
- * Course: CST8284-OOP
- * Assignment: Assignment 03 
- * Due Date: April 6 ,2025 
- * Professor: Reg Dyer 
- */
 /**
  * Recipe defines hashMap as the container for bread name and its ingredient
  * recipe. Also, it defines the hashMap of customers choices to store selected 
