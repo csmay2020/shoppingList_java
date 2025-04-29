@@ -11,15 +11,6 @@ import java.util.Scanner;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-/*
- * File name:RecipManager.java
- * Author: Shan Cai 
- * ID:040469755 
- * Course: CST8284-OOP
- * Assignment: Assignment 03 
- * Due Date: April 6 ,2025 
- * Professor: Reg Dyer 
- */
 /**
  * RecipeManager handles all recipe-related operations including reading recipes,
  * displaying them, creating shopping lists, calculate the amount of each ingredient
